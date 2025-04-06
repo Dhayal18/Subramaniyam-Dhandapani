@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dhayal18/Subramaniyam-Dhandapani/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dhayal18/Subramaniyam-Dhandapani/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dhayal18/Subramaniyam-Dhandapani/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Dhayal18/Subramaniyam-Dhandapani/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhayal18/Subramaniyam-Dhandapani/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dhayal18/Subramaniyam-Dhandapani/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
